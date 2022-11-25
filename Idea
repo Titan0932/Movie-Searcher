@@ -1,0 +1,10 @@
+
+
+
+
+
+A program that generates imdb data and allows user to store the data in a database.
+Data can be accessed.
+Has a GUI for user interaction.
+User stores their favorite movies and data and can see the episode lists, reviews and next episode if available.
+
